@@ -1,0 +1,56 @@
+[
+ {
+   "id": 1,
+   "question": "Which club has recorded the most defeats in Premier League history?",
+   "a": "Aston Villa",
+   "b": "Everton",
+   "c": "Newcastle",
+   "d": "West Ham",
+   "answer": "b"
+ },
+ {
+   "id": 2,
+   "question": "Which club holds the record for the longest run of matches without receiving a red card?",
+   "a": "Burnley",
+   "b": "Ipswich",
+   "c": "Liverpool",
+   "d": "Barnsley",
+   "answer": "a"
+ },
+ {
+   "id": 3,
+   "question": "What was unique about the 2020-21 season?",
+   "a": "There were more goals scored than any other season",
+   "b": "There were fewer penalties awarded than in any other season",
+   "c": "It is the only season in which there were more away wins than home wins",
+   "d": "There were no English managers in the top flight for the first time",
+   "answer": "c"
+ },
+ {
+   "id": 4,
+   "question": "Arsenal are the only team to have gone a full season without losing a match in the Premier League. How many clubs gone a whole season without losing an away match?",
+   "a": "One",
+   "b": "Two",
+   "c": "Four",
+   "d": "Five",
+   "answer": "b"
+ },
+ {
+   "id": 5,
+   "question": "Which club has gone the longest at the start of the season without winning a game (17 matches)?",
+   "a": "Derby County",
+   "b": "Newcastle",
+   "c": "QPR",
+   "d": "Sheffield",
+   "answer": "d"
+ },
+ {
+   "id": 6,
+   "question": "No team has ever scored 10 goals in a Premier League match. How many have scored nine in a game?",
+   "a": "One",
+   "b": "Three",
+   "c": "Five",
+   "d": "Seven",
+   "answer": "b"
+ }
+]
